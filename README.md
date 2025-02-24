@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!&color=%fffffE%27&durаtion=4000)](https://git.io/typing-svg)
 
-
 ```text
 I'm an undergraduate student in Chemistry (Bachelor’s degree) at the Federal University of São Carlos (UFSCar).
 ```
