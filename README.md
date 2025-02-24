@@ -4,8 +4,7 @@
 ```text
 I'm an undergraduate student in Chemistry (Bachelor’s degree) at the Federal University of São Carlos (UFSCar).
 ```
-
-[!](https://tenor.com/bFVAt.gif)
+![oakley-sciencedog (2) (1)](https://github.com/user-attachments/assets/51c82702-538c-4b5f-84c9-9130b01c5d03)
 
 <a href="https://www.linkedin.com/in/joão-vitor-7314b8265/">
   <img align="center" alt="JuaoSea's LinkedIn" width="70px" height="30px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -13,8 +12,6 @@ I'm an undergraduate student in Chemistry (Bachelor’s degree) at the Federal U
 <a href="http://lattes.cnpq.br/9620416271054443/">
   <img align="center" alt="JuaoSea's lattes" width="70px" height="30px" src="https://www.foar.unesp.br/Home/Biblioteca/identificadoresdepesquisadores/lattes.png" />
 </a>
-
-
 
 ### 💻 &nbsp;Languages:
 
