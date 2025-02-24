@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!&color=%fffffE%27&durаtion=4000)](https://git.io/typing-svg)
 
 
-```markdown
-# I'm an undergraduate student in Chemistry (Bachelor’s degree) at the Federal University of São Carlos (UFSCar).
+```text
+I'm an undergraduate student in Chemistry (Bachelor’s degree) at the Federal University of São Carlos (UFSCar).
 ```
 
-[](main-gif.gif)
+[!](https://tenor.com/bFVAt.gif)
 
 <a href="https://www.linkedin.com/in/joão-vitor-7314b8265/">
   <img align="center" alt="JuaoSea's LinkedIn" width="70px" height="30px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
