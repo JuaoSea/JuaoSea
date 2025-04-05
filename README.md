@@ -31,5 +31,3 @@ I'm an undergraduate student in Chemistry (Bachelor’s degree) at the Federal U
 + [hydrogen-wavefunctions](https://github.com/ssebastianmag/hydrogen-wavefunctions)&nbsp;(Translator)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juaosea&theme=dark&show_icons=true)
-
-[![](https://komarev.com/ghpvc/?username=juaosea&color=green)](https://github.com/juaosea)
