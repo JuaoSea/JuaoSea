@@ -31,7 +31,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: true
           config_octicon: true
-          config_timezone: America/Chicago
+          config_timezone: America/Sao Paulo
           config_twemoji: true
           plugin_languages: true
           plugin_languages_analysis_timeout: 15
@@ -50,7 +50,7 @@ jobs:
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
-          plugin_leetcode_user: officialcodevoyage
+          plugin_leetcode_user: juaosea
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
